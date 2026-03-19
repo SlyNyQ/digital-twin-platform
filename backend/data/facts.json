@@ -1,0 +1,22 @@
+{
+    "full_name": "Solomon Nii-Addo Temitayo Quaynor",
+    "name": "Nii",
+    "current_role": "AI Engineer",
+    "location": "London, UK",
+    "email": "niikwetaq@gmail.com",
+    "linkedin": "linkedin.com/in/solomon-nii-addo-quaynor-72729516b",
+    "specialties": [
+      "Your specialty 1: Mechatronics and Robotics Engineering",
+      "Your specialty 2: AI and Machine Learning",
+      "Your specialty 3: Software Development",
+      "Your specialty 4: Data Science"
+    ],
+    "years_experience": 7,
+    "education": [
+      {
+        "degree": "MEng/BEng Mechatronics and Robotics Engineering",
+        "institution": "University of Leeds",
+        "year": "2025"
+      }
+    ]
+  }
